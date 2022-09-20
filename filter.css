@@ -1,0 +1,64 @@
+/* .imag1{
+    filter: grayscale(90%);
+}
+
+.imag2{
+    filter: sepia(70%);
+}
+
+.imag3{
+    filter: blur(5px);
+}
+.imag4{
+    filter: brightness(40%);
+}
+.imag5{
+    filter: opacity(45%);
+}
+
+.imag6{
+    filter: contrast(64%);
+}
+
+.imag7{
+    filter: drop-shadow(28px 18px 40px);
+}
+
+.imag8{
+    filter: hue-rotate(110deg);
+}
+
+.imag9{
+    filter: invert(75%);
+}
+
+.imag10{
+    filter: saturate(60%);
+}
+
+
+
+ */
+
+
+
+
+
+
+
+.hello{
+    visibility: visible;
+}
+
+.hai{
+    visibility: hidden;
+}
+
+.collapse{
+    visibility: collapse;
+}
+
+.bro{
+    visibility: collapse;
+}
+
